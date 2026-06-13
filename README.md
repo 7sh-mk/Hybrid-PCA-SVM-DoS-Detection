@@ -83,7 +83,7 @@ retaining **95% of the total variance**.
 ## Visualizations
 
 ### PCA Framework
-![Framework](framework.png)
+![Framework](framework.jpg)
 
 ### ROC Curve Comparison
 ![ROC Curve](roc_curve.png)
